@@ -1,9 +1,0 @@
-{
-  "name": "smartblock-starter",
-  "private": true,
-  "version": "0.1.0",
-  "description": "Starter estático para SmartBlock (Blockly + Arduino C++).",
-  "scripts": {
-    "serve": "python3 -m http.server 5173"
-  }
-}
